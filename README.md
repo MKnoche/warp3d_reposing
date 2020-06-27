@@ -1,5 +1,7 @@
 # Reposing Humans by Warping 3D Features
 
+Markus Knoche, István Sárándi, Bastian Leibe (RWTH Aachen University)
+
 **[Project](https://www.vision.rwth-aachen.de/publication/00201/) | [Paper](https://arxiv.org/pdf/2006.04898.pdf) |
 [Video](https://www.youtube.com/watch?v=U4hfTcF2cHI)**
 
